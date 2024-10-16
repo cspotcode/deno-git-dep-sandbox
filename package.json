@@ -1,0 +1,7 @@
+{
+  "name": "deno-git-dep-sandbox",
+  "version": "0.0.0",
+  "dependencies": {
+    "outdent": "latest"
+  }
+}
